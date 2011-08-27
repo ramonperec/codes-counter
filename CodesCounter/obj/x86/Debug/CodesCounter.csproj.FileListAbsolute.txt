@@ -1,0 +1,6 @@
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\c_sharp\CodesCounter\CodesCounter\bin\Debug\CodesCounter.exe
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\c_sharp\CodesCounter\CodesCounter\bin\Debug\CodesCounter.pdb
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\c_sharp\CodesCounter\CodesCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\c_sharp\CodesCounter\CodesCounter\obj\x86\Debug\CodesCounter.exe
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\c_sharp\CodesCounter\CodesCounter\obj\x86\Debug\CodesCounter.pdb
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\c_sharp\CodesCounter\CodesCounter\bin\Debug\CodesCounter.exe.config
